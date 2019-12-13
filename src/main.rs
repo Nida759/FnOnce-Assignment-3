@@ -5,7 +5,7 @@ fn main() {
 
     println!("Consumed: {}", func());
 
-    println!("Delicious!");
+    println!("Famous!");
     //  println!("Consumed: {}", func());
   }
 }
